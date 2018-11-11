@@ -8,6 +8,7 @@
 # ***********************************************************************   #
 # MySQL Health Script                                          1.0          #
 # dptsource                                                                 #
+# Dheeraj Porayil Thekkinakathu                                             #
 #############################################################################
 #! /bin/bash
 #Checking if this script is being executed as ROOT. For maintaining proper directory structure, this script must be run from a root user.

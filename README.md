@@ -14,6 +14,8 @@
     1. Edit MySQL credentials in mysqlhealthchecks.sh
     2. Run ./mysqlhealthchecks.sh
     3. Enjoy!
+    
+    You can also fetch details from MySQL_resourcemonitor.sh
 
     Script will automatically send report to email address given in script.
   
